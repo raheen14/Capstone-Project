@@ -1,2 +1,2 @@
-# Coursera_Capstone
-Capstone project- data science.
+# Capstone Project
+This project was done as part of final project for IBM Data Science Specialization.
