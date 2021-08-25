@@ -13,6 +13,6 @@ The following data will be used for this project:
 3. Top venues of districts.
 
 About the notebooks:
-1. The business problem has been explained in: 
+1. The business problem has been explained in: https://github.com/raheen14/Capstone-Project/blob/main/The%20Battle%20of%20Neighborhoods%20-%20Week%201.ipynb
 2. Code for the project is: 
 
