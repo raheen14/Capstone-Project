@@ -14,5 +14,5 @@ The following data will be used for this project:
 
 About the notebooks:
 1. The business problem has been explained in: https://github.com/raheen14/Capstone-Project/blob/main/The%20Battle%20of%20Neighborhoods%20-%20Week%201.ipynb
-2. Code for the project is: 
+2. Code for the project is: https://github.com/raheen14/Capstone-Project/blob/main/The%20Battle%20Of%20Neighborhoods%20Continued%20(code).ipynb
 
